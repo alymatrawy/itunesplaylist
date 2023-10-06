@@ -28,4 +28,4 @@ Testing:
 -Open your Browser and Visit: http://localhost:3000
 - Search a song the results will appear in the table below the search bar;
 - choose a song to place in your playlist click on the '+' button to add the song
-- to remove a song from the playlist click the '-' button
+- to remove a song from the playlist click the 'remove' button
